@@ -1,0 +1,12 @@
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\bin\Debug\net7.0\Figures.deps.json
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\bin\Debug\net7.0\Figures.dll
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\bin\Debug\net7.0\Figures.pdb
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.csproj.AssemblyReference.cache
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.AssemblyInfoInputs.cache
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.AssemblyInfo.cs
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.csproj.CoreCompileInputs.cache
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.dll
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\refint\Figures.dll
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\Figures.pdb
+A:\CSharpPROJECTS\MindboxTestExercises\FigureArea\obj\Debug\net7.0\ref\Figures.dll
